@@ -144,6 +144,13 @@ document.addEventListener('DOMContentLoaded', () => {
   );
 
   // Step 5 - Order confirmation
-  // Your code goes here
+  if (userConfirmation === "1") {
+    alert(`Thank you for your order! Your ${menuSubtype} is now being prepared! See you soon! 👋`);
+  } else if (userConfirmation === "2") {
+    alert(`Alright! We’ll be here when you’re hungry again. Have a great day!`);
+  } else {
+    alert("Invalid choice. Please select 1 for Yes or 2 for No.");
+    return;
+  }
 
 });
