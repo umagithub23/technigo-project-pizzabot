@@ -1,10 +1,8 @@
 # Pizzabot
 
-Replace this readme with your own information about the project. You can include things like:
-
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+- This project is all about mastering vital yet basic JavaScript concepts like variables, conditionals, and native methods. It is about building Pizzabot using step by step instructions.
+- I approached the task by following each step instructions, in total 5 steps and then moved on to stretch goals. Used alert(), prompt(), placeholders, If, else, switch. Followed guidelines to clean code.
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+
+Site deployed in netlify - https://jsproj1-pizzabot.netlify.app/
